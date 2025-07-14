@@ -169,90 +169,56 @@ const config = {
   },
   "modalQuestions": [
     {
-      "id": "q_auto_1752524897271_0",
-      "questionText": "How often do you find yourself needing a getaway or a staycation to recharge from your daily routine?",
+      "id": "q_auto_1752525490374_0",
+      "questionText": "What do you love most about your current home?",
       "options": [
         {
-          "value": "Daily",
-          "text": "Daily"
+          "value": "Location",
+          "text": "Location"
         },
         {
-          "value": "Weekly",
-          "text": "Weekly"
+          "value": "Layout",
+          "text": "Layout"
         },
         {
-          "value": "Monthly",
-          "text": "Monthly"
-        },
-        {
-          "value": "Rarely, but I often think about it",
-          "text": "Rarely, but I often think about it"
+          "value": "The finishes (painting, lighting, etc.)",
+          "text": "The finishes (painting, lighting, etc.)"
         }
       ]
     },
     {
-      "id": "q_auto_1752524897271_1",
-      "questionText": "Which describes your typical weekend activity?",
+      "id": "q_auto_1752525490374_1",
+      "questionText": "What is your next step?",
       "options": [
         {
-          "value": "Exploring local cafes or restaurants",
-          "text": "Exploring local cafes or restaurants"
+          "value": "I’m looking to buy",
+          "text": "I’m looking to buy"
         },
         {
-          "value": "Engaging in outdoor activities like hiking or cycling",
-          "text": "Engaging in outdoor activities like hiking or cycling"
+          "value": "I’m looking to sell",
+          "text": "I’m looking to sell"
         },
         {
-          "value": "Indulging in wellness or spa sessions",
-          "text": "Indulging in wellness or spa sessions"
-        },
-        {
-          "value": "Staying in and catching up on work or chores",
-          "text": "Staying in and catching up on work or chores"
+          "value": "I’m looking to rent",
+          "text": "I’m looking to rent"
         }
       ]
     },
     {
-      "id": "q_auto_1752524897271_2",
-      "questionText": "When planning your next self-care day, which of the following would you most likely choose?",
+      "id": "q_auto_1752525490374_2",
+      "questionText": "When are you looking to move?",
       "options": [
         {
-          "value": "A yoga class followed by a nutritious brunch",
-          "text": "A yoga class followed by a nutritious brunch"
+          "value": "Immediately",
+          "text": "Immediately"
         },
         {
-          "value": "A day of pampering at a spa",
-          "text": "A day of pampering at a spa"
+          "value": "3-6 months",
+          "text": "3-6 months"
         },
         {
-          "value": "An adventure day-trip exploring nature",
-          "text": "An adventure day-trip exploring nature"
-        },
-        {
-          "value": "A quiet day at home catching up on reading",
-          "text": "A quiet day at home catching up on reading"
-        }
-      ]
-    },
-    {
-      "id": "q_auto_1752524897271_3",
-      "questionText": "If you received a gift card for a luxurious wellness experience, how would you most likely use it?",
-      "options": [
-        {
-          "value": "Share it with a friend or loved one for a special occasion",
-          "text": "Share it with a friend or loved one for a special occasion"
-        },
-        {
-          "value": "Use it promptly for a much-needed break",
-          "text": "Use it promptly for a much-needed break"
-        },
-        {
-          "value": "Save it for when I feel particularly stressed",
-          "text": "Save it for when I feel particularly stressed"
-        },
-        {
-          "value": "Redeem it during an upcoming vacation",
-          "text": "Redeem it during an upcoming vacation"
+          "value": "Next Year",
+          "text": "Next Year"
         }
       ]
     }
