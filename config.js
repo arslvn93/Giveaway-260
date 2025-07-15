@@ -21,7 +21,7 @@ const config = {
     "confettiColors": [],
     "showCountdownInHero": true,
     "theme": "dark",
-    "primaryColorOverride": "",
+    "primaryColorOverride": "#0097b2",
     "ghlWebhookUrl": "https://services.leadconnectorhq.com/hooks/KxSrsX5ZH2ZttFjyt9hW/webhook-trigger/jPF9ujGd9Ud2NVz5c0fL",
     "facebookPixelId": "1234979471174848",
     "salesGeniusAppApi": "",
@@ -169,7 +169,7 @@ const config = {
   },
   "modalQuestions": [
     {
-      "id": "q_auto_1752525490374_0",
+      "id": "q_auto_1752587169139_0",
       "questionText": "What do you love most about your current home?",
       "options": [
         {
@@ -187,7 +187,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1752525490374_1",
+      "id": "q_auto_1752587169139_1",
       "questionText": "What is your next step?",
       "options": [
         {
@@ -205,7 +205,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1752525490374_2",
+      "id": "q_auto_1752587169139_2",
       "questionText": "When are you looking to move?",
       "options": [
         {
