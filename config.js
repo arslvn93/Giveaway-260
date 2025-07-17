@@ -2,7 +2,7 @@ const config = {
   "meta": {
     "pageTitle": "Win a $250 Kananaskis Nordic Spa Gift Card – Relax & Recharge!",
     "navBrandLogoText": "Amy Caughlin",
-    "privacyPolicyLink": "https://www.welpneedthis.com"
+    "privacyPolicyLink": "https://greaterpropertygroup.com/privacy-policy/"
   },
   "giveaway": {
     "heroHeadline": "Win a <span class='highlight'>$250 Nordic Spa Gift Card</span> to Relax After Stampede!",
@@ -169,7 +169,7 @@ const config = {
   },
   "modalQuestions": [
     {
-      "id": "q_auto_1752587169139_0",
+      "id": "q_auto_1752743635669_0",
       "questionText": "What do you love most about your current home?",
       "options": [
         {
@@ -187,7 +187,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1752587169139_1",
+      "id": "q_auto_1752743635669_1",
       "questionText": "What is your next step?",
       "options": [
         {
@@ -205,7 +205,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1752587169139_2",
+      "id": "q_auto_1752743635669_2",
       "questionText": "When are you looking to move?",
       "options": [
         {
@@ -251,7 +251,7 @@ const config = {
     "secondaryLogoUrl": "https://greaterpropertygroup.com/wp-content/uploads/2022/06/255x71px_Logo-e1656046332885.png",
     "secondaryLogoAlt": "Greater Property Group Logo",
     "organizerName": "Amy Caughlin Real Estate",
-    "brokerageName": "Greater Property Group",
+    "brokerageName": "https://greaterpropertygroup.com/privacy-policy/",
     "address": "5940 Macleod Trl SW #500, Calgary, AB T2H 2G4",
     "email": "amy@caughlinrealestate.ca",
     "phone": "+1 (587) 439-1618",
