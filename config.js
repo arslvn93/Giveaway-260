@@ -169,7 +169,7 @@ const config = {
   },
   "modalQuestions": [
     {
-      "id": "q_auto_1752743635669_0",
+      "id": "q_auto_1752743685674_0",
       "questionText": "What do you love most about your current home?",
       "options": [
         {
@@ -187,7 +187,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1752743635669_1",
+      "id": "q_auto_1752743685674_1",
       "questionText": "What is your next step?",
       "options": [
         {
@@ -205,7 +205,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1752743635669_2",
+      "id": "q_auto_1752743685674_2",
       "questionText": "When are you looking to move?",
       "options": [
         {
@@ -251,7 +251,7 @@ const config = {
     "secondaryLogoUrl": "https://greaterpropertygroup.com/wp-content/uploads/2022/06/255x71px_Logo-e1656046332885.png",
     "secondaryLogoAlt": "Greater Property Group Logo",
     "organizerName": "Amy Caughlin Real Estate",
-    "brokerageName": "https://greaterpropertygroup.com/privacy-policy/",
+    "brokerageName": "Greater Property Group Logo",
     "address": "5940 Macleod Trl SW #500, Calgary, AB T2H 2G4",
     "email": "amy@caughlinrealestate.ca",
     "phone": "+1 (587) 439-1618",
